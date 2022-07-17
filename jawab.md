@@ -1,5 +1,6 @@
 # A. TES TEKNIS
-link > 
+link > ttps://github.com/bennu7/dot_challenge_flutter.git
+NOTE > maaf untuk materi provider dengan hive saya masih kembangkan lagi, jika diterima magang di DOT inshaallah saya akan lebih bisa lagi untuk mengembangkan state management baik itu menggunakan Provider maupun BLOC dalam penggunaan local db baik itu hive maupun sqflite
 # B. TES PENGETAHUAN
 1. lumayan lama -+ 6 bulanan, secara otodiak
 2. * GOOLE FONTS -> membantu untuk font styling
